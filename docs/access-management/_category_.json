@@ -1,0 +1,9 @@
+{
+  "label": "Access Management",
+  "position": 4,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Configure SSO, ZTNA, remote access, and RADIUS integrations for your organization's applications and resources."
+  }
+}

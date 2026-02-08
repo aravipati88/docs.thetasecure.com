@@ -1,0 +1,9 @@
+{
+  "label": "Device Management",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Manage and monitor all devices enrolled with the ThetaSecure ZTNA agent across your organization."
+  }
+}
