@@ -6,18 +6,18 @@ description: Introduction to ThetaSecure Identity & Access Management platform
 
 # ThetaSecure Overview
 
-ThetaSecure is an enterprise-grade **Identity & Access Management (IAM)** platform designed for organizations that need centralized control over user identities, access policies, and security posture. It provides IT administrators and SOC teams with the tools to manage authentication, enforce security policies, and monitor threats \u2014 all from a unified web console.
+ThetaSecure is an enterprise-grade **Identity & Access Management (IAM)** platform designed for organizations that need centralized control over user identities, access policies, and security posture. It provides IT administrators and SOC teams with the tools to manage authentication, enforce security policies, and monitor threats from a unified web console.
 
 ## What is ThetaSecure?
 
 ThetaSecure enables your organization to:
 
-- **Manage identities** \u2014 Create and manage users, groups, roles, and permissions from a single console
-- **Control access** \u2014 Define network policies, manage application access, and enforce device-based restrictions
-- **Secure authentication** \u2014 Deploy multi-factor authentication (MFA) with TOTP, SMS, Email, and Push methods
-- **Monitor security** \u2014 Track identity health scores, detect anomalies, and analyze privilege creep in real-time
-- **Sync directories** \u2014 Integrate with Active Directory, LDAP, and cloud identity providers
-- **Audit everything** \u2014 Maintain comprehensive logs for compliance and forensic analysis
+- **Manage identities** — Create and manage users, groups, roles, and permissions from a single console
+- **Control access** — Define network policies, manage application access, and enforce device-based restrictions
+- **Secure authentication** — Deploy multi-factor authentication (MFA) with TOTP, SMS, Email, and Push methods
+- **Monitor security** — Track identity health scores, detect anomalies, and analyze privilege creep in real-time
+- **Sync directories** — Integrate with Active Directory, LDAP, and cloud identity providers
+- **Audit everything** — Maintain comprehensive logs for compliance and forensic analysis
 
 ## Platform Architecture
 
@@ -48,4 +48,4 @@ This documentation is written for **IT Administrators** and **SOC (Security Oper
 - **New to ThetaSecure?** Start with [System Requirements](./system-requirements) and [Logging In](./login)
 - **Setting up for the first time?** Follow the [First Steps](./first-steps) guide
 - **Need to monitor your environment?** Explore the [Dashboard Guide](../dashboard/operations)
-- **Configuring policies?** See [Configuration & Settings](../configuration/identity-management)
+- **Configuring policies?** See [Identity Management](../identity-management/users)
