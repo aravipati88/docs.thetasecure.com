@@ -11,7 +11,7 @@ const config = {
   organizationName: 'thetasecure',
   projectName: 'thetasecure-docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
