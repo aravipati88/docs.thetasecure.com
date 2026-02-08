@@ -18,7 +18,7 @@ Navigate to the **Dashboard** to get an overview of your current environment sta
 
 If your organization uses Active Directory, LDAP, or a cloud identity provider, set up **Directory Sync** to automatically import and synchronize user accounts.
 
-- Navigate to **Configuration → Directory Sync**
+- Navigate to **Configuration \u2192 Directory Sync**
 - Create a new **Sync Profile** for your identity source
 - Configure a **Connector** to establish the connection
 - Run an initial sync and verify imported users
@@ -29,15 +29,15 @@ See [Directory Sync Configuration](../configuration/directory-sync) for detailed
 
 Organize your users by creating appropriate roles and groups:
 
-- Go to **Identity Management → Groups** to create user groups
-- Go to **Identity Management → Roles** to define roles with specific permission sets
+- Go to **Identity Management \u2192 Groups** to create user groups
+- Go to **Identity Management \u2192 Roles** to define roles with specific permission sets
 - Assign users to groups and roles based on their responsibilities
 
 ### 4. Configure Authentication Policies
 
 Strengthen your security posture by setting up authentication policies:
 
-- Navigate to **Authentication → Sign-in Policies** to define login rules
+- Navigate to **Authentication \u2192 Sign-in Policies** to define login rules
 - Set up **MFA Policies** to enforce multi-factor authentication
 - Choose from TOTP, SMS, Email, or Push notification methods
 
@@ -45,7 +45,7 @@ Strengthen your security posture by setting up authentication policies:
 
 Control network-level access by configuring access policies:
 
-- Go to **Access Management → Network Policies**
+- Go to **Access Management \u2192 Network Policies**
 - Create policies that define which users/groups can access which resources
 - Configure RADIUS clients if applicable
 
@@ -61,9 +61,9 @@ Register the applications your organization uses:
 
 Once your environment is configured, use the dashboard to monitor:
 
-- **Operations Dashboard** — Authentication trends, sync health, failed logins
-- **Security Dashboard** — Identity health score, anomaly detection, privilege creep
-- **Statistics Dashboard** — At-a-glance counts for all managed resources
+- **Operations Dashboard** \u2014 Authentication trends, sync health, failed logins
+- **Security Dashboard** \u2014 Identity health score, anomaly detection, privilege creep
+- **Statistics Dashboard** \u2014 At-a-glance counts for all managed resources
 
 ### 8. Review Security Recommendations
 

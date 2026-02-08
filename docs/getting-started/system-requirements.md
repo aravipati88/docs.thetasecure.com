@@ -6,7 +6,7 @@ description: Browser and network requirements for accessing ThetaSecure
 
 # System Requirements
 
-ThetaSecure is a cloud-hosted web application. No software installation is required on your local machine — you only need a supported browser and network access to the ThetaSecure console.
+ThetaSecure is a cloud-hosted web application. No software installation is required on your local machine \u2014 you only need a supported browser and network access to the ThetaSecure console.
 
 ## Supported Browsers
 
@@ -32,7 +32,7 @@ If your organization uses a firewall or proxy, ensure these domains are whitelis
 
 ## Screen Resolution
 
-A minimum screen resolution of **1280 × 720** is recommended for optimal dashboard viewing. The interface is responsive but designed primarily for desktop use.
+A minimum screen resolution of **1280 \u00d7 720** is recommended for optimal dashboard viewing. The interface is responsive but designed primarily for desktop use.
 
 ## Authentication Prerequisites
 

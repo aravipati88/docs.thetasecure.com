@@ -8,7 +8,7 @@ description: At-a-glance view of all managed resources and configurations
 
 The Statistics Dashboard provides a comprehensive inventory of all resources managed by ThetaSecure. It gives you an at-a-glance view of your identity infrastructure without needing to navigate into individual modules.
 
-**Navigation:** Dashboard → Statistics tab
+**Navigation:** Dashboard \u2192 Statistics tab
 
 ![Statistics Dashboard](/img/screenshots/statistics-dashboard.jpg)
 
@@ -78,5 +78,4 @@ The Statistics Dashboard is ideal for:
 - **Quick health checks**: Spot missing configurations (e.g., 0 active MFA policies may indicate MFA is not enforced)
 
 :::tip
-If you see "Active: 0" on policies that should be enabled, navigate to the corresponding configuration page to activate them. Inactive policies are defined but not enforced.
-:::
+If you see \\
