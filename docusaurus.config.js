@@ -68,7 +68,7 @@ const config = {
             items: [
               { label: 'Getting Started', to: '/docs/getting-started/overview' },
               { label: 'Dashboard Guide', to: '/docs/dashboard/operations' },
-              { label: 'Configuration', to: '/docs/configuration/identity-management' },
+              { label: 'Configuration', to: '/docs/configuration/general' },
             ],
           },
           {
